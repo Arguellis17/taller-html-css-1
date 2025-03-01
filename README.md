@@ -35,9 +35,5 @@ Este repositorio contiene ejercicios y proyectos prácticos para aprender HTML y
 ✅ Creación de listas, enlaces e imágenes
 ✅ Introducción a CSS (colores, fuentes, márgenes, paddings, etc.)
 ✅ Organización de archivos en proyectos web
-
-## 🛠 Contribuciones
-Si deseas mejorar este repositorio o agregar nuevos ejemplos, puedes hacer un **fork** y enviar un **pull request** con tus cambios.
-
 ---
 💡 **Autor:** Arguellis17 | 📅 **Proyecto creado en 2025, para la materia Programacion Web**
