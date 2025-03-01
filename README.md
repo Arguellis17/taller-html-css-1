@@ -1,4 +1,4 @@
-# Taller de HTML y CSS
+# Taller de HTML y CSS 1
 
 Este repositorio contiene ejercicios y proyectos prácticos para aprender HTML y CSS desde cero. Aquí encontrarás ejemplos de estructura HTML, estilos con CSS y mejores prácticas para el desarrollo web.
 
