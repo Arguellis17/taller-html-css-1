@@ -1,0 +1,27 @@
+/*Selectores en CSS*/
+
+/*elemento*/
+p {
+    color: blue;
+  }
+
+/*clase en CSS*/
+.destacado{
+    color:brown;
+    font-weight: bold;
+}
+
+/*id**/
+#titulo-terciario{
+    color:blueviolet;
+    font-weight: lighter;
+    font-size: 40px;
+}
+
+/*background*/
+html{
+    background-color: antiquewhite;
+    margin: 50px;
+    padding: 50px;
+    border: solid black 2px;
+}
